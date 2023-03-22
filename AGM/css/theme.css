@@ -280,6 +280,7 @@ cite {
 	font-weight: 700;
     font-size: 100px;
     margin-bottom: 30px;
+    text-shadow: 0 0 15px #000000;
 }
 
 #home-slider .caption p {
